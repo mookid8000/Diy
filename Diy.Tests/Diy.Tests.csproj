@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.net.test.sdk" Version="16.4.0" />
+    <PackageReference Include="nunit3testadapter" Version="3.15.1" />
+    <PackageReference Include="testy" Version="0.1.0" />
+  </ItemGroup>
+
+</Project>

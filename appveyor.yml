@@ -1,0 +1,7 @@
+image: Visual Studio 2019
+
+shallow_clone: true
+
+build_script:
+  - dotnet build Diy.sln -c Release 
+
